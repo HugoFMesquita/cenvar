@@ -2,7 +2,7 @@
 title: Test
 description: 
 published: true
-date: 2023-04-14T00:54:00.322Z
+date: 2023-04-14T00:54:46.490Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-14T00:48:31.166Z
@@ -13,6 +13,12 @@ dateCreated: 2023-04-14T00:48:31.166Z
 ## First Tab
 
 > Your content here
+{.is-info}
+> 
+{.is-success}
+> 
+{.is-danger}
+
 
 ## Second Tab
 
