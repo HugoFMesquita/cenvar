@@ -2,7 +2,7 @@
 title: Forms
 description: 
 published: true
-date: 2023-05-05T01:31:11.898Z
+date: 2023-05-05T01:34:47.576Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-05T01:30:54.473Z
@@ -10,7 +10,7 @@ dateCreated: 2023-05-05T01:30:54.473Z
 
 [Asset Removal / Sale / Sold Checklist](https://docs.google.com/document/d/1kGq9pv3FimMwa6-niGyH2pnpf_Vd9QsahBCh2ATc9Kc/edit)
 
-Asset Transfer Form
+[asset-transfer-form.pdf](/forms/asset-transfer-form.pdf)Asset Transfer Form
 
 Blank 2023 W-4 Form
 
