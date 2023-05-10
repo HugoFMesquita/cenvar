@@ -2,13 +2,11 @@
 title: Cenvar Roofing Cenvar Solar Estimate Coordination
 description: Rules regarding the coordination of sales when the customer requests both roofing and solar at the same time
 published: true
-date: 2023-05-10T23:02:54.304Z
+date: 2023-05-10T23:03:31.292Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-10T23:02:15.134Z
 ---
-
-## **Cenvar Roofing & Cenvar Solar Estimate Coordination**
 
 1.  When either division receives a lead for the other division and the customer is interested in both services, the lead shall be sent over to the appointment setter of the other division, via email, along with a note advising that the customer is getting estimates for both roofing and solar.
 2.  The sales appointment setter shall put a note in the appointment alerting the salesman to the fact that the customer is going to be meeting with both solar and roofing sales representatives.
