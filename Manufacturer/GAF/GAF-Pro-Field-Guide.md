@@ -2,12 +2,12 @@
 title: GAF Pro Field Guide
 description: 
 published: true
-date: 2023-05-22T23:26:33.010Z
+date: 2023-05-22T23:27:23.276Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-22T23:26:33.010Z
 ---
 
 > # GAF Pro Field Guide
-> Link to document
-{.is-info}
+> 
+> [Link to document](https://drive.google.com/drive/u/0/folders/1l90yHVeAR1pcyv9LNXbhpnItuROOjff5)
