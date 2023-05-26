@@ -2,7 +2,7 @@
 title: Job Progress Service Proposal Temporary Tarps or Roof Inspections
 description: 
 published: true
-date: 2023-05-26T12:49:29.328Z
+date: 2023-05-26T12:50:02.752Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-26T12:40:38.329Z
@@ -44,7 +44,9 @@ CC/OM: Create the Service Proposal in Job Progress
 
 CC/OM: Email the Service Proposal to the customer.
 
-**STOP: Do not schedule the actual appointment until the signed Service Proposal is received from the customer.**
+> **STOP: Do not schedule the actual appointment until the signed Service Proposal is received from the customer.**
+{.is-danger}
+
 
 -   CC/OM: Schedule the appointment for a time that works best for the customer. [_Scheduling A Sales Appointment_](https://wiki2.cenvarroofing.com/i/57)
     1.  \*\*Temporary Tarp: only schedule in the next available **repair estimate** appointment time slot.
