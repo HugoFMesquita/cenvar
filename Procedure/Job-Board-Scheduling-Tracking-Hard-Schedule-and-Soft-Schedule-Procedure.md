@@ -2,13 +2,14 @@
 title: Job Board Scheduling: Tracking Hard Schedule and Soft Schedule Procedure
 description: How to navigate the branch Job Board with information relating to scheduling the customer’s job, number of days, color selection, materials, and other valuable information.
 published: true
-date: 2023-05-26T11:48:49.303Z
+date: 2023-05-26T11:50:38.695Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-26T11:48:35.720Z
 ---
 
 **The Sales Representative is responsible to add the customer information to the Soft Schedule Job Board**
+
 
 -   Customer Name
 -   Color of the Shingle (if selected at the time of signing)
@@ -67,7 +68,9 @@ The **Soft Schedule Job Board** is the list of customers who have signed the sal
     -   Once the customer selects the shingle color, the OM moves the customer to the Soft Schedule: With Color Selected list, and they are placed at the bottom of this list.
     -   The OM will work to move customers ‘up’ the list by moving them in order of ‘first come, first serve’.
 
-**VERY IMPORTANT**: **A customer cannot be placed on the Hard Schedule without a color selection.**
+> **VERY IMPORTANT**: **A customer cannot be placed on the Hard Schedule without a color selection.**
+{.is-warning}
+
 
 -   Customers must understand that they are not in our scheduling queue until they have chosen a color.
 -   The customer goes to the back of the line at the time of color selection, not at the time of contract signing.
