@@ -2,7 +2,7 @@
 title: General Manager Policies & Requirements
 description: Provide basic training requirements and duties of General Managers
 published: true
-date: 2023-05-27T22:26:29.660Z
+date: 2023-05-27T22:48:35.495Z
 tags: /gives, accident, approve, asset, asset transfer, assets, audit, auditing, audits, book, book list, books, branch, branches, budget, caulk, caulking, checklist, cold, counter flashing, cpr, crew, crickets, damage, discipline, distribution, drinks, employee morale, employee review, evaluation, expense, expense report, fire, first aid, food, food & drinks, food and drinks, forklift, forklift training, form, forms, freeze, freezing, fun things, general, general manager, gives, gm, gm policy, gq, guild quality, guild quality score, hard schedule, hiring, incident, incident report, inspection, job description, lead, management, manager, manager review, material, material distribution, materials, meeting, morale, off boarding, offboarding, onboarding, osb, osha, osha-10, outreach, pay roll, pay scale, payroll, pc, peakon, pm, pm audit, policies, pollicy, production, professional development, project coordinator, project manager, project manager audit, read, reading, reading list, repairs, review, roofs, safety, safety meeting, skylights, staff, subcontractor, subcontractors, subs, supply, temp, temperature, temps, trucks, vehicle, vehicle information, vehicles, weather, week, weeks
 editor: markdown
 dateCreated: 2023-03-20T22:51:35.357Z
@@ -28,22 +28,22 @@ GMs are required to:
 
 GMs are required to:
 
--   Follow the Onboarding for Employees / Offboarding for Employees procedure.
+-   Follow the [Onboarding for Employees / Offboarding for Employees](https://wiki2.cenvarroofing.com/i/123) procedure.
 -   Schedule, lead, and attend company meetings per the [Team Meetings / Branch Meetings / Company Meeting Policy](//wiki2.cenvarroofing.com/i/41).
 -   Include the Regional Manager in all hiring, disciplining, and problem customer occurrences.
--   Follow the employee onboarding & offboarding procedure: Onboarding & Offboarding
+-   Follow the employee onboarding & offboarding procedure: [Onboarding & Offboarding](https://wiki2.cenvarroofing.com/i/123)
 -   Follow the employee Job Offer procedure.
 -   Follow the Cenvar Roofing [Employee Promotion / Transfer Policy](//wiki2.cenvarroofing.com/i/75).
 -   Follow the [Vacation, Time Off, Paid Time Off (PTO), & Attendance Policy](//wiki2.cenvarroofing.com/i/43).
 -   Follow and enforce the [Uniform Policy](//wiki2.cenvarroofing.com/i/20).
--   Use the First Report of Injury Form to report all work related accidents, injuries and events which have caused an injury or illness – no matter how minor.
+-   Use the [First Report of Injury Form](https://wiki2.cenvarroofing.com/i/109) to report all work related accidents, injuries and events which have caused an injury or illness – no matter how minor.
 -   Know and follow the [Saturday Work Policy](//wiki2.cenvarroofing.com/i/7).
 -   Know and follow the [CPR Certification Policy](//wiki2.cenvarroofing.com/i/27)
 
 GMs are responsible to:
 
 -   Staff the branch with the appropriate number of employees. There should be 2 people in the office for every 1 crew. (Ex: If a branch has 5 crews: 1 GM, 1 OM, 5 PCs, & 3 sales reps.)
--   Make arrangements for their employees to retake the test in their branch office for expiring certificate's Forklift Certification / Forklift Training
+-   Make arrangements for their employees to retake the test in their branch office for expiring certificate's [Forklift Certification / Forklift Training](https://wiki2.cenvarroofing.com/i/127)
 -   Arrange their own CPR class once per year, and will send Human Resources copies of the newly updated cards.
 -   Arrange OSHA 10-Hour Training for each Project Coordinator, Repair Crew Leader, and Gutter Crew Leader. [OSHA-10 Training Policy](//wiki2.cenvarroofing.com/i/35)
 -   Perform yearly employee performance evaluations according to the [Performance Evaluation Policy](//wiki2.cenvarroofing.com/i/79).
@@ -72,7 +72,7 @@ GMs will receive the required branch crew numbers (target days) from Corporate w
 
 GMs are responsible to:
 
--   Follow the Material Distribution / Material Delivery Policy.
+-   Follow the [Distribution Policy / Material List Policy.](https://wiki2.cenvarroofing.com/i/150)
 -   Determine any leftover special order items in their branch, and will control the sale of all leftover materials to the public via Marketplace, etc., to partially recoup money spent for the items.
 -   Stock wood decking for their branch. However, when re-decking a roof and large quantities of OSB are to be used the OSB must be added to the material list and ordered through GVRT.
 -   Monitor the weather, and keep their branch caulk supply in heated (or at least not freezing) storage when the temperatures drop below 32 degrees Fahrenheit (0 degrees Celsius). It is the GMs responsibility to ensure the Project Coordinator follow this procedure to keep their truck supply from freezing.
@@ -102,18 +102,18 @@ GMs are responsible to assist customers via accessing sales representatives emai
 
 GMs are required to:
 
--   Follow the Company Lead Time Policy.
--   Know and understand the Job Board Scheduling: Tracking Hard Schedule & Soft Schedule Procedure.
--   Enforce Project Coordinators posting their daily job schedule updates in their branch specific ‘job-update’ Google channel. Job Schedule Updates – Google Chat Channel
--   Randomly choose 1 job per Project Coordinator per month to audit and inspect using the Onsite Project Coordinator Audit form. The PC audits / PC inspections can be performed by GM's, assistant GM's, RM's, and Executives.
+-   Follow the [Company Lead Time Policy](https://wiki2.cenvarroofing.com/i/53).
+-   Know and understand the [Job Board Scheduling: Tracking Hard Schedule & Soft Schedule Procedure](https://wiki2.cenvarroofing.com/i/168).
+-   Enforce Project Coordinators posting their daily job schedule updates in their branch specific ‘job-update’ Google channel. [Job Schedule Updates – Google Chat Channel](https://wiki2.cenvarroofing.com/i/171)
+-   Randomly choose 1 job per Project Coordinator per month to audit and inspect using the [Onsite Project Coordinator Audit form](https://wiki2.cenvarroofing.com/i/172). The PC audits / PC inspections can be performed by GM's, assistant GM's, RM's, and Executives.
 -   Assign a full time Project Coordinator any time we service an apartment complex. The Project Coordinator cannot be assigned to two crews. Apartment complexes are defined as any project having 4 or more units.
--   Follow the Customer Initiated Go Back Procedure and the Corporate Initiated Go Back Procedure.
+-   Follow the [Customer Initiated Go Back Procedure](https://wiki2.cenvarroofing.com/i/159) and the [Corporate Initiated Go Back Procedure](https://wiki2.cenvarroofing.com/i/157).
 
 GMs will hire their preferred HVAC company when possible to repair HVAC line punctures. Cenvar Roofing will take responsibility for any HVAC punctures that are our fault.
 
 GMs will use their discretion to assign a seasoned Project Coordinator to schedule new jobs on the office job board. If the Project Coordinator schedules a job, the Project Coordinator is also required to invoice the job in Job Progress.
 
-GMs shall do safety inspections every time they visit a job site.  If they find a violation, the offending employee or crew shall be written up, using the safety violation citation form, and fined according to the safety policy.
+GMs shall do safety inspections every time they visit a job site.  If they find a violation, the offending employee or crew shall be written up, using the [safety violation](https://wiki2.cenvarroofing.com/i/51) citation form, and fined according to the safety policy.
 
 ## **General Manager Policies - Sales**
 
@@ -134,15 +134,15 @@ GMs are not required to track repairs by Sales Representatives on their payroll.
 
 GMs are required to:
 
--   Class the Expense Report Log weekly per the schedule set by the Finance department.
+-   Class the [Expense Report Log](https://wiki2.cenvarroofing.com/i/165) weekly per the schedule set by the Finance department.
 -   Follow the [Collections Policy](//wiki2.cenvarroofing.com/i/26).
--   Monitor collections for the branch per the Receivables Process.
+-   Monitor collections for the branch per the [Receivables Process.](https://wiki2.cenvarroofing.com/i/134)
 
 GM approved credits are required to be explained on each invoice. (Example: $500 for a broken window etc.)
 
 ## **General Manager Policies - Payroll**
 
-GMs are required use the General Manager – Payroll Information.
+GMs are required use the [General Manager – Payroll Information](https://wiki2.cenvarroofing.com/i/166).
 
 GMs are responsible to have payroll spreadsheets finished and submitted each Monday by 5:00pm. 
 
@@ -152,13 +152,13 @@ GMs are required to send a screenshot of their paysheet to each repair crew memb
 
 ## **General Manager Policies - Miscellaneous**
 
-GMs are required to follow the Community Engagement - Cenvar Gives Policy.
+GMs are required to follow the [Community Engagement - Cenvar Gives Policy](https://wiki2.cenvarroofing.com/i/25).
 
-GMs are required to know and understand the Job Progress Tutorials: All Positions.
+GMs are required to know and understand the [Job Progress Tutorials: All Positions](https://wiki2.cenvarroofing.com/i/61).
 
 GMs must maintain the minimum required branch score per the [GuildQuality Policy](//wiki2.cenvarroofing.com/i/36).
 
-GMs are required to read the Cenvar Roofing Book List.
+GMs are required to read the [Cenvar Roofing Book List](https://wiki2.cenvarroofing.com/i/155).
 
 GMs must complete the GM dashboard in its entirety each Friday by 5:00pm.
 
@@ -166,23 +166,23 @@ GMs are required to post all Sales or Distribution issues in the General Manager
 
 ## **Company Policies to know and understand**
 
-Cenvar Roofing Company Policies
+[Cenvar Roofing Company Policies](https://wiki2.cenvarroofing.com/i/59)
 
 ## **Helpful Tools**
 
--   Job Progress Tutorials: All Tutorials
+-   [Job Progress Tutorials: All Tutorials](https://wiki2.cenvarroofing.com/i/61)
 -   Office Manager Cheat Sheet
 -   Employee Directory / Contact List
 -   Office Manager QuickBooks Classing Procedure
 -   Office Manager Job Description
 -   Receiving Cash Payments / Processing Cash Deposits
--   BirdEye
+-   [BirdEye](https://wiki2.cenvarroofing.com/i/154)
 -   Job Progress (CRM) Audit
 -   Customer Initiated Go-Back Procedure
 -   Corporate Initiated Go-Back Procedure
 -   Job Board Scheduling: Tracking Hard Schedule & Soft Schedule Procedure
 -   Job Step by Step Workflow
--   Day of Job
+-   [Day of Job](https://wiki2.cenvarroofing.com/i/89)
 -   Scheduling a Job
 -   Creating and Submitting an Invoice
 -   Cenvar Roofing Company W-9
