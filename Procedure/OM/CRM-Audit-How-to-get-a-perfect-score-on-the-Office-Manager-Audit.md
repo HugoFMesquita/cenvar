@@ -2,13 +2,13 @@
 title: CRM Audit: How to get a perfect score on the Office Manager Audit
 description: This tutorial will help you check each area of your work in Job Progress to ensure in a perfect audit score.
 published: true
-date: 2023-05-29T13:16:33.193Z
+date: 2023-06-05T21:42:54.216Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-29T13:16:14.126Z
 ---
 
-## **The auditors are looking at all of the following checkpoints when auditing Job Progress files**
+### **The auditors are looking at all of the following checkpoints when auditing Job Progress files**
 
 ### **Is all of the the customer information filled in completely?**
 
