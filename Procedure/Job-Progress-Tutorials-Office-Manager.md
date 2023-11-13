@@ -2,7 +2,7 @@
 title: Job Progress Tutorials: Office Manager
 description: 
 published: true
-date: 2023-11-13T18:39:13.220Z
+date: 2023-11-13T18:39:38.099Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-04T01:49:06.274Z
@@ -20,7 +20,7 @@ dateCreated: 2023-05-04T01:49:06.274Z
 
 [Viewing-Your-Calendar](/Procedure/Viewing-Your-Calendar)
 
-[Locating Forms and Proposals (mobile app)](https://wiki2.cenvarroofing.com/i/252)
+[Locating Forms and Proposals (mobile app)](https://wiki.cenvarroofing.com/i/252)
 
 [Creating-&-Submitting-an-Invoice](/Procedure/Creating-&-Submitting-an-Invoice)
 
@@ -32,13 +32,13 @@ dateCreated: 2023-05-04T01:49:06.274Z
 
 [Receiving-a-Payment-in-Job-Progress](/Procedure/Receiving-a-Payment-in-Job-Progress)
 
-[Signed Proposal Search](https://wiki2.cenvarroofing.com/i/97)
+[Signed Proposal Search](https://wiki.cenvarroofing.com/i/97)
 
 [Scheduling-a-Job](/Procedure/Scheduling-a-Job)
 
 [Warranty-a-Job-Owens-Corning](/Procedure/Warranty-a-Job-Owens-Corning)
 
-[Warranty a Job - GAF](https://wiki2.cenvarroofing.com/i/201)
+[Warranty a Job - GAF](https://wiki.cenvarroofing.com/i/201)
 
 [Warrantying-and-Closing-a-Job-in-Job-Progress](/Procedure/Warrantying-and-Closing-a-Job-in-Job-Progress)
 
@@ -46,4 +46,4 @@ dateCreated: 2023-05-04T01:49:06.274Z
 
 [Job-Step-by-Step-Workflow](/Procedure/Job-Step-by-Step-Workflow)
 
-[Job Progress Service Proposal – Temporary Tarps or Roof Inspections Process](https://wiki2.cenvarroofing.com/i/170)
+[Job Progress Service Proposal – Temporary Tarps or Roof Inspections Process](https://wiki.cenvarroofing.com/i/170)
