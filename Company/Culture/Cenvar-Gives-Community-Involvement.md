@@ -2,7 +2,7 @@
 title: Cenvar Gives: Community Involvement
 description: 
 published: false
-date: 2023-11-13T18:45:52.856Z
+date: 2023-11-13T18:45:58.117Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-30T22:09:44.458Z
@@ -24,4 +24,4 @@ Throughout the year, if you have a Cenvar Gives roofing project idea, or if you 
 
 ## **Cenvar Gives Company Policy:**
 
-[Cenvar Gives Company Policy](https://wiki2.cenvarroofing.com/i/25)
+[Cenvar Gives Company Policy](https://wiki.cenvarroofing.com/i/25)
