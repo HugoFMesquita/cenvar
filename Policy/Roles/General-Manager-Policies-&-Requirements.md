@@ -2,7 +2,7 @@
 title: General Manager Policies & Requirements
 description: Provide basic training requirements and duties of General Managers
 published: true
-date: 2023-11-13T18:51:34.746Z
+date: 2023-11-13T18:52:59.623Z
 tags: /gives, accident, approve, asset, asset transfer, assets, audit, auditing, audits, book, book list, books, branch, branches, budget, caulk, caulking, checklist, cold, counter flashing, cpr, crew, crickets, damage, discipline, distribution, drinks, employee morale, employee review, evaluation, expense, expense report, fire, first aid, food, food & drinks, food and drinks, forklift, forklift training, form, forms, freeze, freezing, fun things, general, general manager, gives, gm, gm policy, gq, guild quality, guild quality score, hard schedule, hiring, incident, incident report, inspection, job description, lead, management, manager, manager review, material, material distribution, materials, meeting, morale, off boarding, offboarding, onboarding, osb, osha, osha-10, outreach, pay roll, pay scale, payroll, pc, peakon, pm, pm audit, policies, pollicy, production, professional development, project coordinator, project manager, project manager audit, read, reading, reading list, repairs, review, roofs, safety, safety meeting, skylights, staff, subcontractor, subcontractors, subs, supply, temp, temperature, temps, trucks, vehicle, vehicle information, vehicles, weather, week, weeks
 editor: markdown
 dateCreated: 2023-03-20T22:51:35.357Z
@@ -35,7 +35,7 @@ GMs are required to:
 -   Follow the employee [Job Offer procedure](/i/169).
 -   Follow the Cenvar Roofing [Employee Promotion / Transfer Policy](/i/75).
 -   Follow the [Vacation, Time Off, Paid Time Off (PTO), & Attendance Policy](/i/43).
--   Follow and enforce the [Uniform Policy](//wiki2.cenvarroofing.com/i/20).
+-   Follow and enforce the [Uniform Policy](//wiki.cenvarroofing.com/i/20).
 -   Use the [First Report of Injury Form](/i/109) to report all work-related accidents, injuries and events which have caused an injury or illness – no matter how minor.
 -   Know and follow the [Saturday Work Policy](/i/7).
 -   Know and follow the [CPR Certification Policy](/i/27)
@@ -135,14 +135,14 @@ GMs are not required to track repairs by Sales Representatives on their payroll.
 GMs are required to:
 
 -   Class the [Expense Report Log](/i/165) weekly per the schedule set by the Finance department.
--   Follow the [Collections Policy](//wiki2.cenvarroofing.com/i/26).
+-   Follow the [Collections Policy](//wiki.cenvarroofing.com/i/26).
 -   Monitor collections for the branch per the [Receivables Process.](/i/134)
 
 GM approved credits are required to be explained on each invoice. (Example: $500 for a broken window etc.)
 
 ## **General Manager Policies - Payroll**
 
-GMs are required use the [General Manager – Payroll Information](https://wiki2.cenvarroofing.com/i/166).
+GMs are required use the [General Manager – Payroll Information](https://wiki.cenvarroofing.com/i/166).
 
 GMs are responsible to have payroll spreadsheets finished and submitted each Monday by 5:00pm. 
 
