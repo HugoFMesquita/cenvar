@@ -2,7 +2,7 @@
 title: Job Board Scheduling: Tracking Hard Schedule and Soft Schedule Procedure
 description: How to navigate the branch Job Board with information relating to scheduling the customer’s job, number of days, color selection, materials, and other valuable information.
 published: true
-date: 2023-05-26T11:50:38.695Z
+date: 2023-11-13T18:35:50.570Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-26T11:48:35.720Z
@@ -33,7 +33,7 @@ dateCreated: 2023-05-26T11:48:35.720Z
 
 The Customer Color Selection Policy must be followed for each job.
 
-[Job Color Selection Policy](https://wiki2.cenvarroofing.com/i/19)
+[Job Color Selection Policy](https://wiki.cenvarroofing.com/i/19)
 
 ## Soft Schedule Job Board
 
@@ -101,4 +101,4 @@ The **Soft Schedule Job Board** is the list of customers who have signed the sal
 
 ***4 week Job Scheduled Board Example #2***
 
-**For additional information, please review the** [**Distribution Policy / Material List Procedure**](https://wiki2.cenvarroofing.com/i/150)
+**For additional information, please review the** [**Distribution Policy / Material List Procedure**](https://wiki.cenvarroofing.com/i/150)
