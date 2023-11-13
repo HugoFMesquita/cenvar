@@ -2,7 +2,7 @@
 title: Job Progress Service Proposal Temporary Tarps or Roof Inspections
 description: 
 published: true
-date: 2023-05-26T12:50:02.752Z
+date: 2023-11-13T18:34:52.426Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-26T12:40:38.329Z
@@ -22,9 +22,9 @@ dateCreated: 2023-05-26T12:40:38.329Z
 
 CC/OM: The customer calls to request a roof inspection or a temporary tarping service.
 
-CC/OM: Add a new customer in Job Progress. [_Entering A New Customer & Scheduling An Appointment_](https://wiki2.cenvarroofing.com/i/90)
+CC/OM: Add a new customer in Job Progress. [_Entering A New Customer & Scheduling An Appointment_](https://wiki.cenvarroofing.com/i/90)
 
-CC/OM: Add a new job in Job Progress. [_Entering A New Customer & Scheduling An Appointment_](https://wiki2.cenvarroofing.com/i/90)
+CC/OM: Add a new job in Job Progress. [_Entering A New Customer & Scheduling An Appointment_](https://wiki.cenvarroofing.com/i/90)
 
 1.  When adding a new inspection, you must select: **Trade & Work Type: Inspection**
 2.  See below example.
