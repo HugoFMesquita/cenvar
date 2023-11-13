@@ -2,7 +2,7 @@
 title: Vice President of Production / Regional Manager Policies & Requirements
 description: 
 published: true
-date: 2023-11-13T18:50:21.178Z
+date: 2023-11-13T18:51:01.418Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-05T21:33:22.766Z
@@ -13,7 +13,7 @@ dateCreated: 2023-04-05T21:33:22.766Z
 Vice Presidents (VPs) and Regional Managers (RMs) are required to:
 
 -   Read and sign the [Cenvar Roofing Employee Handbook](/i/214).
--   Know and intimately understand the [Cenvar Roofing General Company Policy](//wiki2.cenvarroofing.com/i/55).
+-   Know and intimately understand the [Cenvar Roofing General Company Policy](//wiki.cenvarroofing.com/i/55).
 -   Be familiar with our [Cenvar Roofing: Mission & Vision](/i/11).
 
 ## Vice President of Production / Regional Manager Specific Policies
