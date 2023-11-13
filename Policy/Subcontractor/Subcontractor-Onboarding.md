@@ -2,7 +2,7 @@
 title: Subcontractor Onboarding
 description: 
 published: true
-date: 2023-11-13T18:49:31.685Z
+date: 2023-11-13T18:49:50.596Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-03T16:14:27.181Z
@@ -34,6 +34,6 @@ This specifically referenced Subcontractor Agreement is to be filled out before 
 
 [Subcontractor Agreement - Specifically Referenced Job](https://docs.google.com/document/d/1E004ZSMsA-lOmPNwlupxmqYtV9gFDFuBq5LOnB1SAZg/edit)
 
-Please also see the [Subcontractor / Crew Policy](wiki2.cenvarroofing.com/i/45)
+Please also see the [Subcontractor / Crew Policy](wiki.cenvarroofing.com/i/45)
 
 [Subcontractor Onboarding Checklist](https://docs.google.com/document/d/1FpO8wej79KvS6R7Ybeptq_KczVT1KTYSaEvotFAkz1E/edit?usp=sharing)
