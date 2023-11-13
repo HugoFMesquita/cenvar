@@ -2,7 +2,7 @@
 title: Customer Initiated Go Back Procedure
 description: Job go-backs are initiated by the customer, or by our Corporate inspection process. Below is the process for a customer initiated go-back.
 published: true
-date: 2023-11-13T18:43:41.264Z
+date: 2023-11-13T18:44:11.219Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-24T22:55:01.177Z
@@ -25,7 +25,7 @@ dateCreated: 2023-05-24T22:55:01.177Z
 -   **OM**: **Add detailed notes in the JP “Job Notes” section, describing the customer telephone call including the issue(s) with as many details the customer can provide.**
 -   GM or PC: Required to supply subcontractor / crew with all the necessary go back details to successfully resolve the issue. GM or PC must send instructions, to include job name, job address, photos of all problem areas, detailed description of all issues, and any other pertinent information related to solving the problem.
 -   GM: Create a work order describing the go back and any applicable material list.
-    -   Attach any photos of the actual areas that need to be addressed to the Work Order. [_Creating a Work Order With Attached House Photo in Job Progress_](https://wiki2.cenvarroofing.com/i/219)_._
+    -   Attach any photos of the actual areas that need to be addressed to the Work Order. [_Creating a Work Order With Attached House Photo in Job Progress_](https://wiki.cenvarroofing.com/i/219)_._
 -   The GM will daily monitor the ‘Invoiced: Job Problem’ stage until the job issue is resolved and the customer is happy.
 -   **Note: Any time anyone (General Manger, Office Manger, etc.) moves a job into the ‘Invoiced: Job Problem’ stage in Job Progress (for any reason), that person is responsible to make detailed Job Notes explaining why the job is in this bucket, and to document all issues.** 
 -   **GM & OM are required to add Job Notes regularly to record any and all updates on the progress towards resolution of the problems.**
@@ -50,13 +50,13 @@ RM (Repair Mechanic): while at the go back, the RM must take photos of all probl
 
 **RM: Add detailed notes in the JP “Notes” section describing all issues found, and how the issues were resolved.**
 
-**NOTE: if Cenvar Roofing is not to be found at fault,** a $250.00 service charge must be added for each go-back diagnosis [_Cenvar Roofing Workmanship Warranty_](https://wiki2.cenvarroofing.com/i/160)
+**NOTE: if Cenvar Roofing is not to be found at fault,** a $250.00 service charge must be added for each go-back diagnosis [_Cenvar Roofing Workmanship Warranty_](https://wiki.cenvarroofing.com/i/160)
 
 OM: It is the responsibility of the Office Manager to follow the go-back, and move the job through the Job Progress stages.
 
-OM: by closing the job in Job Progress, the GM verifies that the issue has been resolved, the customer is happy with the go-back result, and the work is acceptable with Cenvar Roofing inspections. [_Warrantying and Closing a Job In Job Progress_](https://wiki2.cenvarroofing.com/i/63)
+OM: by closing the job in Job Progress, the GM verifies that the issue has been resolved, the customer is happy with the go-back result, and the work is acceptable with Cenvar Roofing inspections. [_Warrantying and Closing a Job In Job Progress_](https://wiki.cenvarroofing.com/i/63)
 
-\*\*See also [Corporate Initiated Go-Back Procedure](https://wiki2.cenvarroofing.com/i/157)
+\*\*See also [Corporate Initiated Go-Back Procedure](https://wiki.cenvarroofing.com/i/157)
 
 **If your job does not have a Go back folder because it was created prior to 7/8/21, please use the below process to create a new folder in Job Progress:**
 
