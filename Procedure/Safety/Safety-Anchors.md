@@ -2,7 +2,7 @@
 title: Safety: Anchors
 description: Resources about safety anchors
 published: true
-date: 2023-05-14T19:58:08.966Z
+date: 2023-11-16T12:23:58.785Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-14T19:47:46.930Z
@@ -23,3 +23,8 @@ Instructions for each type of anchor can be found by following the links below:
 > [Guardian Temper Ridge Anchor](/safety/guardian-temper-ridge-anchor-1.pdf)  
 {.is-info}
 
+> [Guardian Bull Ring Anchor](/safety/guardian_bull_ring_anchor_manual.pdf)
+{.is-info}
+
+> [Hitchclip Roof Anchor Instructions](/safety/hitchclip_roof_anchor_instructions_manual.pdf)
+{.is-info}
