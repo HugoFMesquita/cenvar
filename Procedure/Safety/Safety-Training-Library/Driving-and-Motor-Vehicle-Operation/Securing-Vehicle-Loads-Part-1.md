@@ -1,12 +1,12 @@
 ---
-title: Securing Vehicle Loads - Part 1
+title: Securing Vehicle Loads
 description: 
 published: true
-date: 2023-12-27T20:09:10.725Z
+date: 2023-12-28T19:30:14.395Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-27T20:00:48.256Z
 ---
 
-> [Securing Vehicle Loads - Part 1](/safety/safety-training-library/safety_securing_vehicle_loads_-_part_1.pdf)
+> [Securing Vehicle Loads](/safety/safety-training-library/safety_securing_vehicle_loads_-_part_1.pdf)
 {.is-info}
