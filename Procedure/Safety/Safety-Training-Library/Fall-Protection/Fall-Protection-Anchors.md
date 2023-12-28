@@ -1,8 +1,8 @@
 ---
 title: Fall Protection: Anchors
 description: 
-published: false
-date: 2023-12-28T19:24:44.218Z
+published: true
+date: 2023-12-28T19:34:08.725Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-28T19:24:44.218Z
