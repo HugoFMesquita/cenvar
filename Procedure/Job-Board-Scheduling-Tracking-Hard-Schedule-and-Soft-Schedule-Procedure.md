@@ -2,7 +2,7 @@
 title: Job Board Scheduling: Tracking Hard Schedule and Soft Schedule Procedure
 description: How to navigate the branch Job Board with information relating to scheduling the customer’s job, number of days, color selection, materials, and other valuable information.
 published: true
-date: 2023-11-13T18:35:50.570Z
+date: 2023-12-31T03:34:39.198Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-26T11:48:35.720Z
@@ -56,9 +56,6 @@ The **Soft Schedule Job Board** is the list of customers who have signed the sal
 
 ![](https://wiki.cenvarroofing.com/wp-content/uploads/2020/09/image-9.png)
 
-***Soft Schedule Job Board Example #2***
-
----
 
 **The Soft Schedule Job Board is divided into 2 separate lists:**
 
