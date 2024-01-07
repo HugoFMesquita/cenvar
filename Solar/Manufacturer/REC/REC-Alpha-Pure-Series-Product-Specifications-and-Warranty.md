@@ -1,8 +1,8 @@
 ---
 title: REC Alpha Pure Series Product Specifications and Warranty
 description: 
-published: false
-date: 2024-01-07T20:51:30.981Z
+published: true
+date: 2024-01-07T20:58:51.256Z
 tags: panel, panels, rec, specs
 editor: markdown
 dateCreated: 2024-01-07T20:50:59.092Z
