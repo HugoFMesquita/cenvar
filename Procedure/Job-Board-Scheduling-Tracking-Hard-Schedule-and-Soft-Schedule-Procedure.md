@@ -2,7 +2,7 @@
 title: Job Board Scheduling: Tracking Hard Schedule and Soft Schedule Procedure
 description: How to navigate the branch Job Board with information relating to scheduling the customer’s job, number of days, color selection, materials, and other valuable information.
 published: true
-date: 2024-01-13T16:21:38.377Z
+date: 2024-01-13T16:36:18.683Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-26T11:48:35.720Z
@@ -45,16 +45,6 @@ The **Soft Schedule Job Board** is the list of customers who have signed the sal
 -   Sales Rep includes: Sales Rep Initials
 -   Sales Rep includes: any specific notes (example: metal, + gutters, etc)
 -   EXAMPLE: **Camm (1.5) RT** – Camm = customer last name, (1.5) = number of days estimated in the job, RT = initials of sales rep Ryan Thivierge
-
-![](https://wiki.cenvarroofing.com/wp-content/uploads/2020/09/image-10.png)
-
-***Close Up of Soft Schedule Job Board***
-
-![](https://wiki.cenvarroofing.com/wp-content/uploads/2020/09/image-8.png)
-
-***Soft Schedule Job Board Example #1***
-
-![](https://wiki.cenvarroofing.com/wp-content/uploads/2020/09/image-9.png)
 
 
 **The Soft Schedule Job Board is divided into 2 separate lists:**
