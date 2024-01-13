@@ -2,7 +2,7 @@
 title: Job Board Scheduling: Tracking Hard Schedule and Soft Schedule Procedure
 description: How to navigate the branch Job Board with information relating to scheduling the customer’s job, number of days, color selection, materials, and other valuable information.
 published: true
-date: 2023-12-31T03:34:39.198Z
+date: 2024-01-13T16:21:38.377Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-26T11:48:35.720Z
@@ -33,7 +33,7 @@ dateCreated: 2023-05-26T11:48:35.720Z
 
 The Customer Color Selection Policy must be followed for each job.
 
-[Job Color Selection Policy](https://wiki.cenvarroofing.com/i/19)
+[Job Color Selection Policy](/i/19)
 
 ## Soft Schedule Job Board
 
@@ -71,7 +71,7 @@ The **Soft Schedule Job Board** is the list of customers who have signed the sal
 
 -   Customers must understand that they are not in our scheduling queue until they have chosen a color.
 -   The customer goes to the back of the line at the time of color selection, not at the time of contract signing.
--   OM: send the updated Material List with updated color selection to: [_delivery@cenvarroofing.com_](mailto:delivery@cenvarroofing.com)
+-   OM: send the updated Material List with updated color selection to: [_sales@ravnecsupply.com_](mailto:sales@ravnecsupply.com)
 -   OM: add a ‘checkmark’ next to the customer name on the board.
 
 ## Hard Schedule Job Board
@@ -84,7 +84,7 @@ The **Soft Schedule Job Board** is the list of customers who have signed the sal
 -   OM includes: customer last name
 -   OM includes: Sales Rep Initials
 -   OM includes: number of days estimated in job
--   OM includes: a colored dot to indicate that the material list has been sent to [_delivery@cenvarroofing.com_](mailto:delivery@cenvarroofing.com) . The colored dot is helpful when there are a lot of crews being scheduled at the same time.
+-   OM includes: a colored dot to indicate that the material list has been sent to [_sales@ravnecsupply.com_](mailto:sales@ravnecsupply.com) . The colored dot is helpful when there are a lot of crews being scheduled at the same time.
 -   OM includes: Bring From Shop or Delivery to specify where the materials are being sourced from.
 -   EXAMPLE: Camm (1) RT – Camm = customer last name, (1) = number of days estimated in the job, RT = initials of sales rep Ryan Thivierge
 
