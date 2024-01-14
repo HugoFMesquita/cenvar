@@ -2,7 +2,7 @@
 title: Aurora Step by Step Training
 description: Lists the steps needed to create a solar design in Aurora
 published: false
-date: 2024-01-14T15:43:45.698Z
+date: 2024-01-14T15:45:15.439Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-14T15:43:28.233Z
@@ -37,8 +37,12 @@ Name, address, phone, and email information will automatically import directly f
     -   **MUST HAVE MINIMUM** 2 panels together. No singular panel arrays or mounting planes.
     -   The process is repeated for multiple buildings on the property.
     -   A black colored panel means the placement of the panel is good.
-    -   Yellow colored panel means this placement may or may not work.
-    -   Red colored panel means the placement will not work.
+>     -   Yellow colored panel means this placement may or may not work.
+{.is-warning}
+>
+>     -   Red colored panel means the placement will not work.
+{.is-danger}
+
 7.  Panel Orientation
     -   Select Panel
     -   Select Orientation
