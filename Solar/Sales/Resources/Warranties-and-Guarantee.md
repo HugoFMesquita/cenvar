@@ -2,7 +2,7 @@
 title: Warranties and Guarantee
 description: 
 published: true
-date: 2024-01-28T19:39:12.174Z
+date: 2024-01-28T19:40:44.748Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-28T19:37:02.687Z
