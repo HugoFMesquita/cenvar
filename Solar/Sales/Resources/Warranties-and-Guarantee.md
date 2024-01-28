@@ -2,7 +2,7 @@
 title: Warranties and Guarantee
 description: 
 published: true
-date: 2024-01-28T19:37:13.886Z
+date: 2024-01-28T19:37:46.157Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-28T19:37:02.687Z
@@ -30,7 +30,9 @@ Industry-leading limited warranty for up to 25 years.
 
 10 years workmanship for each roof penetration free from water infiltration.
 
-All warranties are Transferable.
+> All warranties are transferable.
+{.is-info}
+
 
 ## **Peace of Mind Guarantee**
 
