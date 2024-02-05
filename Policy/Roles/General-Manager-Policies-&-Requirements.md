@@ -2,7 +2,7 @@
 title: General Manager Policies & Requirements
 description: Provide basic training requirements and duties of General Managers
 published: true
-date: 2023-12-29T16:04:23.268Z
+date: 2024-02-05T21:18:59.534Z
 tags: /gives, accident, approve, asset, asset transfer, assets, audit, auditing, audits, book, book list, books, branch, branches, budget, caulk, caulking, checklist, cold, counter flashing, cpr, crew, crickets, damage, discipline, distribution, drinks, employee morale, employee review, evaluation, expense, expense report, fire, first aid, food, food & drinks, food and drinks, forklift, forklift training, form, forms, freeze, freezing, fun things, general, general manager, gives, gm, gm policy, gq, guild quality, guild quality score, hard schedule, hiring, incident, incident report, inspection, job description, lead, management, manager, manager review, material, material distribution, materials, meeting, morale, off boarding, offboarding, onboarding, osb, osha, osha-10, outreach, pay roll, pay scale, payroll, pc, peakon, pm, pm audit, policies, pollicy, production, professional development, project coordinator, project manager, project manager audit, read, reading, reading list, repairs, review, roofs, safety, safety meeting, skylights, staff, subcontractor, subcontractors, subs, supply, temp, temperature, temps, trucks, vehicle, vehicle information, vehicles, weather, week, weeks
 editor: markdown
 dateCreated: 2023-03-20T22:51:35.357Z
@@ -89,7 +89,7 @@ General Managers is responsible to maintain all assets (trucks, trailers, Equipt
 
 GMs are required to:
 
--   Follow the [Vehicle Accident Policy](/i/23) and also report all vehicle / asset damage, with photos, to corporate within 24 hours of an accident occurrence using the [_Vehicle / Asset Damage Report Form_](https://docs.google.com/document/d/1pATZ64E6EEATCpVvxHTprT2yS9koQDX_0mURus2cFXk/edit?usp=sharing)
+-   Follow the [Vehicle Accident Policy](/i/23) and also report all vehicle / asset damage, with photos, to corporate within 24 hours of an accident occurrence using the [_Vehicle / Asset Damage Report Form_](https://docs.google.com/document/d/1pATZ64E6EEATCpVvxHTprT2yS9koQDX_0mURus2cFXk)
 -   Know and understand the [Vehicle & Asset FAQs](/i/80).
 
 ## **General Manager Policies - Customers**
