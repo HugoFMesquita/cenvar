@@ -1,8 +1,8 @@
 ---
 title: Aurora Process
 description: Lists the steps needed to create a solar design in Aurora
-published: false
-date: 2024-02-06T18:31:35.443Z
+published: true
+date: 2024-02-06T18:35:43.167Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-14T15:43:28.233Z
@@ -38,13 +38,16 @@ Click the contact bar:
 -   Choose either:
     -   Standard (3 hours)
     -   Expedite (30 minutes)
-        -   *Please use the standard as much as possible.*
+          -   *Please use the standard as much as possible.*
+
 -   Click Send Request.
 -   In the Expert Model field, a blue box will appear to show you design is in Progress.
 
 Aurora will send you an email once the system design is ready.
 
-Video Training: [_How to Request a Design_](https://drive.google.com/drive/u/1/folders/1OufrGEE1tgpwDYPvEZxlh3L1tFcJnlg5)
+> Video Training: [_How to Request a Design_](https://drive.google.com/drive/u/1/folders/1OufrGEE1tgpwDYPvEZxlh3L1tFcJnlg5)
+{.is-info}
+
 
 ## **How to Build a Roof Mount Design**
 
@@ -108,7 +111,9 @@ Simulate System- Click the Black icon in the upper right toolbar. (Calculates th
     -   kWh the system will produce annually.
     -   % of energy offset compared to customer’s electric usage over the last 12 months.
 
-Video Training: [_How to Design a Roof Mount System_](https://drive.google.com/drive/u/1/folders/1OufrGEE1tgpwDYPvEZxlh3L1tFcJnlg5)
+> Video Training: [_How to Design a Roof Mount System_](https://drive.google.com/drive/u/1/folders/1OufrGEE1tgpwDYPvEZxlh3L1tFcJnlg5)
+{.is-info}
+
 
 ## **How to Build a Ground Mount Design**
 
@@ -148,7 +153,9 @@ If you need to add more panels, in the right sidebar in the **Rows** and **Colum
 
 Click the V in the upper right corner to the right of **System updated** to see the number of panels, production of system, Energy offset vs. current electrical usage.
 
-Video Training: [_How to Design a Ground Mount System_](https://drive.google.com/drive/u/1/folders/1OufrGEE1tgpwDYPvEZxlh3L1tFcJnlg5)
+> Video Training: [_How to Design a Ground Mount System_](https://drive.google.com/drive/u/1/folders/1OufrGEE1tgpwDYPvEZxlh3L1tFcJnlg5)
+{.is-info}
+
 
 ## **How to Duplicate a Design**
 
@@ -172,7 +179,9 @@ Turn off **Use LIDAR Shading**
 
 Click the **Simulate system** black box in the toolbar in the upper right corner, if circle arrows appear.
 
-Video Training: [_How to Duplicate a Design_](https://drive.google.com/drive/u/1/folders/1OufrGEE1tgpwDYPvEZxlh3L1tFcJnlg5)
+> Video Training: [_How to Duplicate a Design_](https://drive.google.com/drive/u/1/folders/1OufrGEE1tgpwDYPvEZxlh3L1tFcJnlg5)
+{.is-info}
+
 
 ## **How to Remove or Add a Tree in a Design**
 
@@ -191,7 +200,9 @@ To add a tree while you are in the design stage.
 
 Click the Simulate 
 
-Video Training: [_How to Remove and Add Trees_](https://drive.google.com/drive/u/1/folders/1OufrGEE1tgpwDYPvEZxlh3L1tFcJnlg5)
+> Video Training: [_How to Remove and Add Trees_](https://drive.google.com/drive/u/1/folders/1OufrGEE1tgpwDYPvEZxlh3L1tFcJnlg5)
+{.is-info}
+
 
 ## **How to Price the System** 
 
@@ -217,7 +228,9 @@ Under the Design section you will see:
 -   Offset (% offset of solar production vs electric bill)
 -   Size (size of the system in kilowatts).
 
-Video Training: [_How to Price a System_](https://drive.google.com/drive/u/1/folders/1OufrGEE1tgpwDYPvEZxlh3L1tFcJnlg5)
+> Video Training: [_How to Price a System_](https://drive.google.com/drive/u/1/folders/1OufrGEE1tgpwDYPvEZxlh3L1tFcJnlg5)
+{.is-info}
+
 
 ## **How to Price the System for Sunlight Financial**
 
@@ -253,7 +266,9 @@ Turn off the **Use tax credits to pay down loan** to see monthly payments from 1
 
 Click **Done** in the upper right corner.
 
-Video Training: [_How to Price through Sunlight Financial_](https://drive.google.com/drive/u/1/folders/1OufrGEE1tgpwDYPvEZxlh3L1tFcJnlg5) 
+> Video Training: [_How to Price through Sunlight Financial_](https://drive.google.com/drive/u/1/folders/1OufrGEE1tgpwDYPvEZxlh3L1tFcJnlg5) 
+{.is-info}
+
 
 ## **Design Rules:**
 
