@@ -2,7 +2,7 @@
 title: Job Progress Service Proposal Temporary Tarps or Roof Inspections
 description: 
 published: true
-date: 2024-02-13T16:18:28.770Z
+date: 2024-02-13T16:19:40.740Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-26T12:40:38.329Z
@@ -29,9 +29,9 @@ Add a [new job in Job Progress](/i/90). 
 
 Make detailed notes in the Job Progress “**Job Notes**” specifying any details and / or services the customer is requesting.
 
-> **Roof inspections will be performed for $350 and will be accompanied with a written inspection report (realtors, apartment complexes, multi-family buildings, commercial, etc. are the most common applications for this paid service).** 
-> 
-> **Homeowner inspections are provided free of charge. There are cases when a homeowner needs an inspection report (such as after experiencing hail damage from a storm and the insurance company requires prior to payment) so for all homeowners, all roof inspections are free.**
+> **Roof inspections will be performed for $350 and will be accompanied with a written inspection report (realtors, apartment complexes, multi-family buildings, commercial, etc. are the most common applications for this paid service).  Homeowner inspections are provided free of charge. There are cases when a homeowner needs an inspection report (such as after experiencing hail damage from a storm and the insurance company requires prior to payment) so for all homeowners, all roof inspections are free.**
+{.is-info}
+
 
 If applicable, notify the customer the cost of a roof inspection/temporary tarp installed is $350, and you will create a “Service Proposal” to be immediately emailed directly to the email which they provided. The customer will be required to sign the Service Proposal document electronically which will automatically be recorded in Job Progress.
 
@@ -45,6 +45,8 @@ Create the Service Proposal in Job Progress
 Email the Service Proposal to the customer.
 
 > **STOP: Do not schedule the actual appointment until the signed Service Proposal is received from the customer.**
+{.is-danger}
+
 
 Schedule the appointment for a time that works best for the customer. [*Scheduling A Sales Appointment*](https://wiki2.cenvarroofing.com/i/57)
 
