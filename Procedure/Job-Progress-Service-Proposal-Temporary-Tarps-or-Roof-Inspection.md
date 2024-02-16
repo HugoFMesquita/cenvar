@@ -2,7 +2,7 @@
 title: Job Progress Service Proposal Temporary Tarps or Roof Inspections
 description: 
 published: true
-date: 2024-02-13T16:19:40.740Z
+date: 2024-02-16T12:59:40.442Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-26T12:40:38.329Z
@@ -66,15 +66,15 @@ Check the appropriate service box:
 -   Temporary Tarping Service
 -   Roof Inspection
 
-## **Roof Inspection: Sales Representative (Replacement / Repairs):**
+## **Roof Inspection: Sales Representative or Branch Repair Crew (Replacement / Repairs):**
 
-Roof Inspection: can be performed by sales teams.
+Roof Inspection: can be performed by sales teams or branch repair crew.
 
-Sales Representative: attend the scheduled Job Progress roof inspection appointment.
+Attend the scheduled Job Progress roof inspection appointment.
 
-Sales Representative: perform the roof inspection.
+Perform the roof inspection.
 
-Sales Representative: fill out the ***Roof Inspection Form***.
+Fill out the ***Roof Inspection Form***.
 
 1.  The *Roof Inspection Form* is located in the Job Progress Form/Proposal Templates.
 2.  Make detailed notes as needed.
@@ -82,25 +82,25 @@ Sales Representative: fill out the ***Roof Inspection Form***.
 4.  Mark: F- Fair.
 5.  Mark: P- Poor, Immediate Action.
 
-Sales Representative: Complete a Roof Inspection Report to detail the inspection results.
+Complete a Roof Inspection Report to detail the inspection results.
 
 -   The Roof Inspection Report is located in the Job Progress Form/Proposal Templates.
 
-Sales Representative: Email the completed Roof Inspection Report to the customer.
+Email the completed Roof Inspection Report to the customer.
 
 -   **Note**: *Any roof inspection that a customer pays for cannot have photos taken by a drone included in the inspection report unless the Remote Pilot In Command is licensed. It is illegal to take photos for use in any document or report that is itself the product being sold. We are not allowed to sell photos or videos taken by a drone unless the drone pilot is licensed.*
 
-Sales Representative: Add a detailed Job Note stating “Inspection is complete”.
+Add a detailed Job Note stating “Inspection is complete”.
 
-Sales Representative: Move the job to the “Work In Progress” stage in Job Progress.
+Move the job to the “Work In Progress” stage in Job Progress.
 
 1.  This will notify the Office Manger that the job has been completed.
 2.  The OM will create an invoice for the completed service.
 3.  The OM daily reviews this job stage.
 
-## **Temporary Tarp: Sales Representative**
+## **Temporary Tarp: Repair crew**
 
-Temporary Tarp: only serviced by sales team.
+Temporary Tarp: only serviced by repair crew.
 
 Attend the scheduled Job Progress appointment.
 
@@ -115,10 +115,10 @@ Move the job to the “Work In Progress” stage in Job Progress.
 
 ## **Office Manager (OM):**
 
-Office Manager: monitor the Job Progress “Work In Progress” stage.
+Monitor the Job Progress “Work In Progress” stage.
 
 -   all completed inspections will be in the “Work In Progress’ stage in Job Progress.
--   OM: create an invoice. [Creating and Submitting An Invoice](https://wiki2.cenvarroofing.com/i/88)
+Create an invoice. [Creating and Submitting An Invoice](https://wiki2.cenvarroofing.com/i/88)
 -   the cost of installing a temporary tarp or roof inspection is $350 except for homeowners.
 -   the only exception to this cost is if the customer has signed a roof replacement contract, and requests a temporary tarp installed until their scheduled roof replacement.
--   OM: move the job to the “Invoiced: Post-F/u Required” stage in Job Progress.
+Move the job to the “Invoiced: Post-F/u Required” stage in Job Progress.
