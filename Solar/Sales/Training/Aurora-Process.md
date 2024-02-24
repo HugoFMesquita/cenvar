@@ -2,7 +2,7 @@
 title: Aurora Process
 description: Lists the steps needed to create a solar design in Aurora
 published: true
-date: 2024-02-06T18:35:43.167Z
+date: 2024-02-24T17:37:50.721Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-14T15:43:28.233Z
@@ -167,7 +167,18 @@ Click **Duplicate**
 
 When the new design appears click the **3 horizontal dots** and **Rename.**
 
-Rename the design.
+Rename the design to a name that is pertinant to the differentiating factor of the different designs. For example:
+- 28 panels
+- 32 panels
+- Front or Back of house (or directionally - east, west, north, south)
+- Roof mount
+- Ground mount
+- Garage mount
+- Barn mount
+- Type of panels
+- Type of inverter
+- Aggressive design
+
 
 Click the bar of the new design to go into the design.
 
