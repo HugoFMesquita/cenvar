@@ -2,7 +2,7 @@
 title: Aurora Process
 description: Lists the steps needed to create a solar design in Aurora
 published: true
-date: 2024-02-24T17:46:17.621Z
+date: 2024-02-24T17:59:15.424Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-14T15:43:28.233Z
@@ -88,7 +88,7 @@ Selecting Equipment
 -   Click Modules for roof mount or Ground Mount.
 -   On right sidebar
     -   Under Solar Panels select *REC405AA Pure Black*
-    -   Under Microinverters select *IQ8PLUS*
+    -   Under Microinverters select *IQ8M-72-2-US*
     -   Orientation select Portrait.
 
 Add solar panels to the roof.
@@ -131,12 +131,12 @@ Click **Panels.**
 
 Click **Ground Mount.**
 
-Under **Module** select the REC405AA Pure Black from the drop-down menu.
+Under **Module** select the *REC405AA Pure Black* from the drop-down menu.
 
 Click **+Microinverter**
 
-Select the IQ\*PLUS-72-2-US
-
+Select the *IQ8M-72-2-US
+*
 Under **Tilt** enter 30
 
 Click **Draw**
