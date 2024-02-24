@@ -2,7 +2,7 @@
 title: Aurora Process
 description: Lists the steps needed to create a solar design in Aurora
 published: true
-date: 2024-02-24T17:37:50.721Z
+date: 2024-02-24T17:39:34.886Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-14T15:43:28.233Z
@@ -178,7 +178,7 @@ Rename the design to a name that is pertinant to the differentiating factor of t
 - Type of panels
 - Type of inverter
 - Aggressive design
-
+- Customer preferred
 
 Click the bar of the new design to go into the design.
 
