@@ -2,7 +2,7 @@
 title: Job Descriptions
 description: 
 published: true
-date: 2023-04-18T18:02:14.014Z
+date: 2024-03-07T20:26:07.661Z
 tags: hr, human resources
 editor: markdown
 dateCreated: 2023-04-11T16:52:03.501Z
@@ -82,6 +82,10 @@ dateCreated: 2023-04-11T16:52:03.501Z
 
 > [Job Description: Sales Representative](https://docs.google.com/document/d/1j6RrBEbElQPoTj3MUk_rkwFDV8r8y_ihukCk_FPqCks/edit?usp=share_link)
 {.is-info}
+
+> Job Description: Solar Sales Specialist
+{.is-info}
+
 
 > [Job Description: Traveling On Site PC](https://docs.google.com/document/d/17lglgsLCTCBgNmMwC3hEgQAlTg9kk1o8H-dOT0owmXQ/edit?usp=share_link)
 {.is-info}
