@@ -2,7 +2,7 @@
 title: Warranties and Guarantee
 description: 
 published: true
-date: 2024-01-28T19:40:44.748Z
+date: 2024-03-07T21:35:40.016Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-28T19:37:02.687Z
@@ -11,6 +11,8 @@ dateCreated: 2024-01-28T19:37:02.687Z
 ## **Warranty**
 
 **REC Panels**
+
+[REC Warranty](/Solar/Manufacturer/REC/REC-Alpha-Pure-Series-Product-Specifications-and-Warranty) to share with the customer
 
 25-years product warranty\*: covers panel defects
 
@@ -23,6 +25,8 @@ At least 92% of nameplate power in year 25; an industry best.
 \* When installed and registered by a REC Certified Solar Professional installer; part of the REC ProTrust Warranty (subject to warranty conditions).
 
 **Enphase Microinverter**
+
+[Enphase-Warranty](/Solar/Manufacturer/Enphase/Enphase-Warranty) to share with the customer.
 
 Industry-leading limited warranty for up to 25 years.
 
