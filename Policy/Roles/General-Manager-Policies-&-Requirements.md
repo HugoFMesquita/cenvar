@@ -2,7 +2,7 @@
 title: General Manager Policies & Requirements
 description: Provide basic training requirements and duties of General Managers
 published: true
-date: 2024-02-05T21:18:59.534Z
+date: 2024-05-01T20:14:19.262Z
 tags: /gives, accident, approve, asset, asset transfer, assets, audit, auditing, audits, book, book list, books, branch, branches, budget, caulk, caulking, checklist, cold, counter flashing, cpr, crew, crickets, damage, discipline, distribution, drinks, employee morale, employee review, evaluation, expense, expense report, fire, first aid, food, food & drinks, food and drinks, forklift, forklift training, form, forms, freeze, freezing, fun things, general, general manager, gives, gm, gm policy, gq, guild quality, guild quality score, hard schedule, hiring, incident, incident report, inspection, job description, lead, management, manager, manager review, material, material distribution, materials, meeting, morale, off boarding, offboarding, onboarding, osb, osha, osha-10, outreach, pay roll, pay scale, payroll, pc, peakon, pm, pm audit, policies, pollicy, production, professional development, project coordinator, project manager, project manager audit, read, reading, reading list, repairs, review, roofs, safety, safety meeting, skylights, staff, subcontractor, subcontractors, subs, supply, temp, temperature, temps, trucks, vehicle, vehicle information, vehicles, weather, week, weeks
 editor: markdown
 dateCreated: 2023-03-20T22:51:35.357Z
@@ -40,7 +40,7 @@ GMs are required to:
 -   Know and follow the [Saturday Work Policy](/i/7).
 -   Know and follow the [CPR Certification Policy](/i/27)
 
-GMs are responsible to:
+GMs are responsible for:
 
 -   Staff the branch with the appropriate number of employees. There should be 2 people in the office for every 1 crew. (Ex: If a branch has 5 crews: 1 GM, 1 OM, 5 PCs, & 3 sales reps.)
 -   Make arrangements for their employees to retake the test in their branch office for expiring certificate's [Forklift Certification / Forklift Training](/i/127)
@@ -95,6 +95,8 @@ GMs are required to:
 ## **General Manager Policies - Customers**
 
 GMs are required to follow the [Customer Escalation Policy / Employee Escalation Policy](/i/40) for all branch issues.
+
+GMs are responsible for notifying the call center representative performing the customer service surveys (CSS) when a completed job is moved to the Job Problems bucket in Job Progress, and was invoiced 7 or more calendar days previously. This ensures that the customer will not be contacted for a CSS if there are outstanding issues with the job.
 
 GMs are responsible to assist customers via accessing sales representatives' email and telephone calls while any sales representative is on vacation. [Sales Representative Policies & Requirements](/i/16).
 
