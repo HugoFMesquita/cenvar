@@ -2,17 +2,11 @@
 title: Cenvar Gives: Community Involvement
 description: 
 published: false
-date: 2023-11-13T18:45:58.117Z
+date: 2024-06-27T13:58:22.896Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-30T22:09:44.458Z
 ---
-
-Company culture isn’t all about bake-offs and team-building events. Every component of our team culture is intentional with a clear sense of purpose. 
-
-1.  Employee Engagement - Cenvar Together
-2.  Community Involvement - Cenvar Gives
-3.  Active Lifestyle/Health/Wellness - Cenvar Fit
 
 ## **Community Engagement – (Cenvar Gives) Policy -**
 
