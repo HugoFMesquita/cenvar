@@ -2,13 +2,13 @@
 title: Corporate Inspector: Roof Inspection Procedure
 description: The Corporate Inspector performs multiple completed jobs daily using the following corporate roof inspection procedure. 
 published: true
-date: 2023-11-13T18:44:58.030Z
+date: 2024-07-03T19:51:47.422Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-28T21:11:29.670Z
 ---
 
-Each corporate roof inspection must be performed using a "Roof Inspection Form". Depending on the type of roof inspection, there are 4 [forms](https://wiki.cenvarroofing.com/i/109) available to select:
+Each corporate roof inspection must be performed using a "Roof Inspection Form." Depending on the type of roof inspection, there are 4 [forms](https://wiki.cenvarroofing.com/i/109) available to select:
 
 -   Snaplock Metal Inspection Checklist
 -   Metal Screw Down Inspection Checklist
