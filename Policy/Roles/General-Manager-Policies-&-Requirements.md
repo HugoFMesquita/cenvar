@@ -2,7 +2,7 @@
 title: General Manager Policies & Requirements
 description: Provide basic training requirements and duties of General Managers
 published: true
-date: 2024-05-01T20:14:19.262Z
+date: 2024-07-26T20:09:12.010Z
 tags: /gives, accident, approve, asset, asset transfer, assets, audit, auditing, audits, book, book list, books, branch, branches, budget, caulk, caulking, checklist, cold, counter flashing, cpr, crew, crickets, damage, discipline, distribution, drinks, employee morale, employee review, evaluation, expense, expense report, fire, first aid, food, food & drinks, food and drinks, forklift, forklift training, form, forms, freeze, freezing, fun things, general, general manager, gives, gm, gm policy, gq, guild quality, guild quality score, hard schedule, hiring, incident, incident report, inspection, job description, lead, management, manager, manager review, material, material distribution, materials, meeting, morale, off boarding, offboarding, onboarding, osb, osha, osha-10, outreach, pay roll, pay scale, payroll, pc, peakon, pm, pm audit, policies, pollicy, production, professional development, project coordinator, project manager, project manager audit, read, reading, reading list, repairs, review, roofs, safety, safety meeting, skylights, staff, subcontractor, subcontractors, subs, supply, temp, temperature, temps, trucks, vehicle, vehicle information, vehicles, weather, week, weeks
 editor: markdown
 dateCreated: 2023-03-20T22:51:35.357Z
@@ -12,7 +12,7 @@ dateCreated: 2023-03-20T22:51:35.357Z
 
 General Managers (GMs) are required to:
 
--   Read and sign the [Cenvar Roofing Employee Handbook](/manuals/employee-handbook.-2021-1.pdf).
+-   Read and sign the [Cenvar Roofing Employee Handbook](https://wiki.cenvarroofing.com/en/Company/HR/Cenvar-Roofing-Employee-Handbook).
 -   Know and intimately understand the [Cenvar Roofing General Company Policy](/i/55).
 -   Be familiar with our [Cenvar Roofing: Mission & Vision](/i/11).
 
