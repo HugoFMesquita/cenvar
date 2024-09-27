@@ -2,7 +2,7 @@
 title: Subcontractor Onboarding
 description: 
 published: true
-date: 2023-11-13T18:49:50.596Z
+date: 2024-09-27T18:28:07.613Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-03T16:14:27.181Z
@@ -37,3 +37,7 @@ This specifically referenced Subcontractor Agreement is to be filled out before 
 Please also see the [Subcontractor / Crew Policy](wiki.cenvarroofing.com/i/45)
 
 [Subcontractor Onboarding Checklist](https://docs.google.com/document/d/1FpO8wej79KvS6R7Ybeptq_KczVT1KTYSaEvotFAkz1E/edit?usp=sharing)
+
+## **Contractor Safety Handbook**
+
+All new subcontractors/crews will be provided with at least one printed (hard copy) of the [Contractor Safety Handbook](https://drive.google.com/file/d/17tIqEnvGH1lLozWTuuk3n0D5gJF3deat/view?usp=drive_link). The Cenvar Roofing Quality Control Manager (or his designee) will give the crew foreman or owner time to review the handbook and ask questions. After review, the foreman or owner must print, sign, and date the [Contractor Safety Handbook Acknowledgement form](https://docs.google.com/document/d/16BqmTC3vRKYJb7Jfxb4tysC_PQhkoeuj/edit?usp=sharing&ouid=109914809307617965700&rtpof=true&sd=true). The completed acknowledgment form needs to be forwarded to corporate with the crew on-boarding documents OR sent directly to the Safety Director. A QR code is provided on the acknowledgment form for the fully electronic (PDF) version of the handbook. The handbook is written in both English (first half of the document) and Spanish (second half of the document).
