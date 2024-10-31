@@ -2,8 +2,8 @@
 title: Cenvar Roofing Cenvar Solar Estimate Coordination
 description: Rules regarding the coordination of sales when the customer requests both roofing and solar at the same time
 published: true
-date: 2024-06-27T13:49:14.282Z
-tags: 
+date: 2024-10-31T15:43:24.047Z
+tags: solar
 editor: markdown
 dateCreated: 2023-05-10T23:02:15.134Z
 ---
