@@ -2,8 +2,8 @@
 title: Job Board Scheduling: Tracking Hard Schedule and Soft Schedule Procedure
 description: How to navigate the branch Job Board with information relating to scheduling the customer’s job, number of days, color selection, materials, and other valuable information.
 published: true
-date: 2024-01-13T16:36:18.683Z
-tags: 
+date: 2024-11-04T16:15:55.865Z
+tags: critical
 editor: markdown
 dateCreated: 2023-05-26T11:48:35.720Z
 ---
