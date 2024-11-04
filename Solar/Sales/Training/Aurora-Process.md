@@ -1,9 +1,9 @@
 ---
 title: Aurora Process
 description: Lists the steps needed to create a solar design in Aurora
-published: false
-date: 2024-03-20T22:51:31.073Z
-tags: 
+published: true
+date: 2024-11-04T15:51:31.202Z
+tags: solar
 editor: markdown
 dateCreated: 2024-01-14T15:43:28.233Z
 ---
