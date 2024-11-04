@@ -2,8 +2,8 @@
 title: Safety: Anchors
 description: Resources about safety anchors
 published: true
-date: 2023-11-16T12:23:58.785Z
-tags: 
+date: 2024-11-04T15:03:01.319Z
+tags: critical
 editor: markdown
 dateCreated: 2023-05-14T19:47:46.930Z
 ---
