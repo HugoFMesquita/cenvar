@@ -2,8 +2,8 @@
 title: Warranties and Guarantee
 description: 
 published: true
-date: 2024-03-07T21:35:40.016Z
-tags: 
+date: 2024-11-04T15:50:18.695Z
+tags: solar
 editor: markdown
 dateCreated: 2024-01-28T19:37:02.687Z
 ---
