@@ -2,8 +2,8 @@
 title: Cenvar Solar
 description: All Cenvar Solar information and forms in one location
 published: true
-date: 2023-11-29T22:34:19.517Z
-tags: 
+date: 2024-11-04T15:28:12.362Z
+tags: solar
 editor: markdown
 dateCreated: 2023-05-28T15:14:18.936Z
 ---
