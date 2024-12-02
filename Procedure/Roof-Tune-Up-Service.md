@@ -2,7 +2,7 @@
 title: Roof Tune Up Service Procedure
 description: The Cenvar Roofing Roof Tune Up Service is a maintenance service we offer which involves checking all of the things that need to be maintained during the life of the roof.
 published: true
-date: 2024-12-02T18:46:53.153Z
+date: 2024-12-02T18:56:03.813Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-13T23:12:01.376Z
@@ -12,7 +12,7 @@ When a customer calls to request the Roof Tune Up Service:
 
 ## **Cenvar Roofing Call Center**
 
-1. **Enter** the customer information into Job Progress following the _appointment scheduling procedure_.
+1. **Enter** the customer information into Job Progress following the [Appointment scheduling procedure](/Procedure/Scheduling-A-Sales-Appointment).
 
 - Name, Address, Email, Telephone, Etc.
 2. **Select** the appropriate branch General Manager as the Salesman / Estimator.
@@ -41,7 +41,7 @@ Required to call the customer back within 24 hours of the timestamped email.
     -   Fill out the Roof Tune Up Service Report while performing the service.
     -   Add notes that correspond to any line item. (yes, no, n/a)
     -   Take supporting photos of your findings for each of the line items (no exceptions), even if no service is needed for a line item.
-    -   _Upload all photos_ to Job Progress.
+    -   [Upload all photos](/Procedure/Job-Progress/Attaching-a-Photo-(from-cell-phone)) to Job Progress.
     -   Email the completed Roof Tune Up Service Report WITH all supporting photos to the customer.
 5. Upon job completion, send the Invoice to the customer.
 
