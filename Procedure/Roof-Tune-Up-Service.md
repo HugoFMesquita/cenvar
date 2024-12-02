@@ -2,7 +2,7 @@
 title: Roof Tune Up Service Procedure
 description: The Cenvar Roofing Roof Tune Up Service is a maintenance service we offer which involves checking all of the things that need to be maintained during the life of the roof.
 published: true
-date: 2023-05-14T21:18:07.822Z
+date: 2024-12-02T18:46:53.153Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-13T23:12:01.376Z
@@ -12,38 +12,38 @@ When a customer calls to request the Roof Tune Up Service:
 
 ## **Cenvar Roofing Call Center**
 
-**Enter** the customer information into Job Progress following the _appointment scheduling procedure_.
+1. **Enter** the customer information into Job Progress following the _appointment scheduling procedure_.
 
--   Name, Address, Email, Telephone, Etc.
--   **Select** the appropriate branch General Manager as the Salesman / Estimator.
+- Name, Address, Email, Telephone, Etc.
+2. **Select** the appropriate branch General Manager as the Salesman / Estimator.
 
-**Create** a new job.
+3. **Create** a new job.
 
--   Select Trade Type: Repairs
--   Select Work Type: Tune Up Service
--   \*Do not schedule the appointment date/time – the General Manager will schedule the appointment.
+- Select Trade Type: Repairs
+- Select Work Type: Tune Up Service
+- \*Do not schedule the appointment date/time – the General Manager will schedule the appointment.
 
-**Send** an email to the General Manager through Job Progress to notify them of the new Roof Tune Up Request.
+4. **Send** an email to the General Manager through Job Progress to notify them of the new Roof Tune Up Request.
 
 ## **The General Manager** 
 
 Required to call the customer back within 24 hours of the timestamped email.
 
--   **Ask** the customer the size of their house, in square feet.
--   **Sell** the roof tune up service to the customer.
--   **Answer** any customer questions.
--   **Create** the Roof Tune Up Proposal with the correct dollar amount included (see below).
+1. **Ask** the customer the size of their house, in square feet.
+2. **Sell** the roof tune up service to the customer.
+3. **Answer** any customer questions.
+4. **Create** the Roof Tune Up Proposal with the correct dollar amount included (see below).
     -   The cost of a Roof Tune Up Service visit is:
         -   $295.00 for homes 2,500 finished square feet and less.
         -   $395.00 for homes 2,501 finished square feet and more.
--   Upon receipt of the customer signed contract, **schedule** the Roof Tune Up service appointment.
--   **Perform** the Roof Tune Up service.
+5. Upon receipt of the customer signed contract, **schedule** the Roof Tune Up service appointment.
+6. **Perform** the Roof Tune Up service.
     -   Fill out the Roof Tune Up Service Report while performing the service.
     -   Add notes that correspond to any line item. (yes, no, n/a)
     -   Take supporting photos of your findings for each of the line items (no exceptions), even if no service is needed for a line item.
     -   _Upload all photos_ to Job Progress.
     -   Email the completed Roof Tune Up Service Report WITH all supporting photos to the customer.
--   Upon job completion, send the Invoice to the customer.
+5. Upon job completion, send the Invoice to the customer.
 
 ## **Roof Tune Up Service Proposal / Contract**
 
