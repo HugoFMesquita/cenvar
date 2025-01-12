@@ -2,7 +2,7 @@
 title: Roof Tune Up Service Procedure
 description: The Cenvar Roofing Roof Tune Up Service is a maintenance service we offer which involves checking all of the things that need to be maintained during the life of the roof.
 published: true
-date: 2024-12-02T18:56:03.813Z
+date: 2025-01-12T22:14:32.364Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-13T23:12:01.376Z
@@ -34,8 +34,8 @@ Required to call the customer back within 24 hours of the timestamped email.
 3. **Answer** any customer questions.
 4. **Create** the Roof Tune Up Proposal with the correct dollar amount included (see below).
     -   The cost of a Roof Tune Up Service visit is:
-        -   $295.00 for homes 2,500 finished square feet and less.
-        -   $395.00 for homes 2,501 finished square feet and more.
+        -   $595.00 for homes 2,500 finished square feet and less.
+        -   $695.00 for homes 2,501 finished square feet and more.
 5. Upon receipt of the customer signed contract, **schedule** the Roof Tune Up service appointment.
 6. **Perform** the Roof Tune Up service.
     -   Fill out the Roof Tune Up Service Report while performing the service.
