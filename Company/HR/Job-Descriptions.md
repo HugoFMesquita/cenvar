@@ -2,7 +2,7 @@
 title: Job Descriptions
 description: 
 published: true
-date: 2024-10-31T15:23:08.489Z
+date: 2025-03-25T15:18:56.344Z
 tags: hr, human resources, critical
 editor: markdown
 dateCreated: 2023-04-11T16:52:03.501Z
@@ -58,9 +58,6 @@ dateCreated: 2023-04-11T16:52:03.501Z
 > [Job Description: Material / Asset Manager](https://docs.google.com/document/d/1aE9KiNQ6Cc8fOYIHNpmMReQDSWLv5ZNJX15NGIA0ekw/edit?usp=share_link)
 {.is-info}
 
-
-> [Job Description: Material Coordinator](https://docs.google.com/document/d/1y1TMf6fYCRUGHQUZVIZMfNB4dm8PLjWjiAsc6ul8jd8/edit?usp=share_link)
-{.is-info}
 
 
 > [Job Description: Material Handler](https://docs.google.com/document/d/1vT21KGTI6Sv5aWJWsJcUxFvWN17tgovthmlXc7ptk7Y/edit?usp=share_link)
